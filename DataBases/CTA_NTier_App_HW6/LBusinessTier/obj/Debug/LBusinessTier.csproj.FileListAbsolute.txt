@@ -1,0 +1,9 @@
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\bin\Debug\CTA.mdf
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\bin\Debug\CTA_log.ldf
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\bin\Debug\LBusinessTier.dll
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\bin\Debug\LBusinessTier.pdb
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\bin\Debug\LDataAccessTier.dll
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\bin\Debug\LDataAccessTier.pdb
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\obj\Debug\LBusinessTier.csprojResolveAssemblyReference.cache
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\obj\Debug\LBusinessTier.dll
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LBusinessTier\obj\Debug\LBusinessTier.pdb
