@@ -1,7 +1,0 @@
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\bin\Debug\CTA.mdf
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\bin\Debug\CTA_log.ldf
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\bin\Debug\LDataAccessTier.dll.config
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\bin\Debug\LDataAccessTier.dll
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\bin\Debug\LDataAccessTier.pdb
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\obj\Debug\LDataAccessTier.dll
-C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\InClassWork\CTA_NTier_App_TODO\CTA_NTier_App_TODO\LDataAccessTier\obj\Debug\LDataAccessTier.pdb

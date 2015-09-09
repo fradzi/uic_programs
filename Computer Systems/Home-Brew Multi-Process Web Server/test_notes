@@ -1,9 +1,0 @@
-Apache Bench
-
-
-    sudo apt-get install apache2-utils
-
-open server
-in new terminal :
-    
-    ab -n 100 -c 10 http://127.0.0.1:8080/
