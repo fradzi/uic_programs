@@ -1,0 +1,9 @@
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\bin\Debug\uiTunesPurchaseApp.exe.config
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\bin\Debug\uiTunesPurchaseApp.exe
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\bin\Debug\uiTunesPurchaseApp.pdb
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\obj\Debug\uiTunesPurchaseApp.csprojResolveAssemblyReference.cache
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\obj\Debug\uiTunesPurchaseApp.PurchaseApp.resources
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\obj\Debug\uiTunesPurchaseApp.Properties.Resources.resources
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\obj\Debug\uiTunesPurchaseApp.csproj.GenerateResource.Cache
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\obj\Debug\uiTunesPurchaseApp.exe
+C:\Users\daigoro\Documents\Visual Studio 2013\Projects\CS480\uiTunesPurchaseApp\uiTunesPurchaseApp\obj\Debug\uiTunesPurchaseApp.pdb
